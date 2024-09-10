@@ -1,5 +1,5 @@
 # customer_segmentation
-This project focuses on customer segmentation, where we use SQL and Python to analyze customer data and assign tailored perks to different customer groups based on their preferences and behaviors. The goal is to leverage data‬
+This project focuses on customer segmentation, where we use **SQL** and **Python** to analyze customer data and assign tailored perks to different customer groups based on their preferences and behaviors. The goal is to leverage data‬
 to better understand our customers and, ultimately, enhance customer retention.
 
 <img width="269" alt="Screenshot 2024-09-04 at 23 51 48" src="https://github.com/user-attachments/assets/86fb261e-a71a-4f33-b4d0-eef4f94f7fb7">
