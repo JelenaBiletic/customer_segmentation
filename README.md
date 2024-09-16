@@ -48,7 +48,7 @@ The **Dreamers** are active customers who plan trips but never complete them (av
 **Continuous Improvement:**
 * Continuously feed data from future tests into the model to refine and enhance its predictions for better targeting of loyalty perks.
 
-## Project Summary
+## PROJECT SUMMARY
 Watch my video presentation of this project [TravelTideVideo](https://drive.google.com/file/d/1vPnWSH48qexMkZ8WJolIr_0U-3qQHMkL/view?usp=sharing).
 
 View the project presentation [TravelTidePresentation](https://docs.google.com/presentation/d/1r5Z-1vtB5iVaZ9Z3DLQo-hoEuKcA2zQq8Xbs2Svcv0A/edit?usp=sharing).
